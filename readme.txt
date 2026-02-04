@@ -1,5 +1,5 @@
-=== TechNews Autoblog ===
-Contributors: technews
+=== RMS Autoblog ===
+Contributors: royalmedia.us
 Tags: autoblog, trending topics, content generation, SEO, marketing
 Requires at least: 5.8
 Tested up to: 6.4
@@ -27,7 +27,7 @@ TechNews Autoblog helps you discover trending topics and create structured blog 
 
 == Installation ==
 
-1. Upload the `technews-autoblog` folder to `/wp-content/plugins/`
+1. Upload the `rms-autoblog` folder to `/wp-content/plugins/`
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to **TechNews Autoblog > Settings** and enter your NewsAPI key
 4. Visit the **TechNews Autoblog** dashboard to start discovering trends!
@@ -67,3 +67,4 @@ SEO, Marketing, Web Development, and Mobile Development.
 * One-click draft post creation
 * OpenAI integration for content generation
 * SEO plugin integration (RankMath, Yoast, AIOSEO)
+
